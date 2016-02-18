@@ -37,7 +37,7 @@ points(wings, jitter(rep(0, times=100), factor=0.7))
 ```
 
 ```{r, echo=FALSE}
-pdf(file="../../LaTeX_examples/PNAS_template/histograms.pdf", width=8, height=4)
+pdf(file="../LaTeX_journal_templates/PNAS_template/histograms.pdf", width=8, height=4)
 par(mfrow=c(1,2))
 hist(wings, freq=TRUE, col="grey")
 points(wings, jitter(rep(0, times=100), factor=10))

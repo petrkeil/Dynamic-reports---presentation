@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{What is a multi-scale model?}{3}{0}{1}
+\beamer@sectionintoc {2}{How does it work?}{8}{0}{2}
+\beamer@sectionintoc {3}{Case studies}{18}{0}{3}
+\beamer@sectionintoc {4}{Future prospects}{23}{0}{4}
+\beamer@sectionintoc {5}{Summary}{27}{0}{5}
